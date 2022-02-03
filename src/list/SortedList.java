@@ -29,5 +29,5 @@ public interface SortedList<S extends Comparable<S>> {
      *
      * @return size of the list
      */
-    int size();
+    int size() ;
 }
